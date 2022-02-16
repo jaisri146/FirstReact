@@ -1,14 +1,16 @@
 .ner{
     margin-top: -2900px;
-    margin-bottom: 400px;
+    margin-bottom: 150px;
     margin-left: 450px;
 }
 .cns{
     position: relative;
 }
-/* .img1{
-    
-} */
+.ra{
+  text-align: center;
+  margin-left: -530px;
+  margin-bottom: 50px;
+}
 .img1{
     width: 80%;
     border-radius: 30px;
@@ -26,7 +28,7 @@
     margin-top: 20px;
     height: 90px;
   }
-  .grid-items4 {
+  .grid-itemsk {
     margin-top: 20px;
     background-color: white;
     box-sizing: border-box;
@@ -37,7 +39,7 @@
     
     border: 1px solid rgba(165,162,162,0.2);
   }
-  .grid-items5 {
+  .grid-itemsk1 {
     margin-top: 15px;
     margin-bottom: 90px;
     padding-top: 20px;
@@ -53,7 +55,7 @@
     border: 1px solid rgba(165,162,162,0.2);
     font-size: 20px;
   }
-  .grid-items6 {
+  .grid-itemsk2 {
     margin-top: 15px;
     margin-bottom: 90px;
     padding-top: 20px;
@@ -69,19 +71,19 @@
     border: 1px solid rgba(165,162,162,0.2);
     font-size: 20px;
   }
-  .nut{
+  .nut1{
     height:20px;
     margin-left: -180px;
     margin-top: -20px;
     width:30px;
   }
-  .pt4{
+  /* .pt4{
     margin-top: -60px;
     margin-bottom: 30px;
     margin-right: 30px;
     font-size: 15px;
-  }
-  .pt5{
+  } */
+  .ptk5{
     margin-top: -30px;
     margin-bottom: 30px;
     margin-left: 10px;

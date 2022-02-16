@@ -1,4 +1,4 @@
-.grid-container3{
+.grid-containera3{
     display: grid;
     grid-template-columns: auto auto auto auto auto;
     grid-gap: 5px;
@@ -8,24 +8,24 @@
     padding-left: 15%;
     padding-right: 15%;
 }
-ul{
+.unorder{
     list-style-type: none;
 }
-li{
+.listj1{
     padding-bottom: 10px;
 }
-li a{
+.listj1 a{
     text-decoration: none;
     color: #505256;
     margin-left: -40px;
     font-size: 13px;
     
 }
-li a:hover{
+.listj1 a:hover{
     color: #0284FE;
     
 }
-.grid-item3 p{
+.grid-itemj3 p{
     font-size: 13px;
     font-weight: 600;
   
@@ -64,7 +64,7 @@ li a:hover{
     padding-left: 20px;
     padding-bottom: 13px;
 }
-.link{
+.linkj{
     width: 30px;
     padding-left: 20px;
     padding-bottom: 10px;

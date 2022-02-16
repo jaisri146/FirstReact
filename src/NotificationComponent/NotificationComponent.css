@@ -1,4 +1,4 @@
-.grid-container2{
+.grid-containerj2{
     display: grid;
     background-color: #F7F8F9;
     grid-template-columns: auto auto auto;
@@ -9,13 +9,13 @@
     margin-top: 5%;
     margin-bottom: 7%;
 }
-.grid-items1 p{
+.grid-itemsj2 p{
     font-size: 18px;
     color: #505256;
     margin-bottom: 10px;
     margin-left: 10px;
 }
-.grid-items1 h1{
+.grid-itemsj2 h1{
     font-size: 23px;
     margin-top: 10px;
     margin-bottom: 10px;

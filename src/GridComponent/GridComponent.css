@@ -20,17 +20,17 @@
     margin-bottom: 20px;
   }
   
-  .grid-items {
+  .grid-itemsz {
     font-size: 30px;
     text-align: center;
   }
-  .grid-items p{
+  .grid-itemsz p{
       font-size: 18px;
       color: #505256;
       line-height: 30px;
       margin-bottom: 40px;
       margin-top: -15px;
   }
-  .grid-items h4{
+  .grid-itemsz h4{
       font-size: 30px;
   }

@@ -1,16 +1,16 @@
-.text{
+.textj{
     text-align: center;
     font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 40px;
 }
-.grid-container {
+.grid-containerj {
     display: grid;
     grid-template-columns: auto auto auto;
     margin-left: 25%;
     margin-top: 3%;
   }
-  .grid-item {
+  .grid-itemj {
     width: 65%;
     border: 1px solid rgba(165, 162, 162, 0.2);
     font-size: 30px;
@@ -22,7 +22,7 @@
     margin-left: 10px;
     box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2);
   }
-  .grid-item1 {
+  .grid-itemj1 {
     width: 80%;
     border: 1px solid rgba(165, 162, 162, 0.2);
     font-size: 30px;
@@ -34,37 +34,37 @@
     margin-left: -80px;
     box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2);
   }
-  .grid-item p{
+  .grid-itemj p{
       font-size: 18px;
       color: rgb(82, 79, 79);
       margin-top: -20px;
   }
-  .grid-item1 p{
+  .grid-itemj1 p{
     font-size: 18px;
     color: rgb(82, 79, 79);
     margin-top: -20px;
 }
-.grid-item h5{
+.grid-itemj h5{
     margin-top: 10px;
 }
-.grid-item1 h5{
+.grid-itemj1 h5{
     margin-top: 10px;
 }
-.grid-item a{
+.grid-itemj a{
     text-decoration: none;
     font-size: 14px;
     color: #0284FE;
     font-weight: bold;
 }  
-.grid-item1 a{
+.grid-itemj1 a{
     text-decoration: none;
     font-size: 14px;
     color: #0284FE;
     font-weight: bold;
 }  
-.grid-item a:hover{
+.grid-itemj a:hover{
     color: blue;
 }
-.grid-item1 a:hover{
+.grid-itemj1 a:hover{
     color: blue;
 }

@@ -4,46 +4,46 @@ import './FooterComponent.css';
 const FooterComponent = () =>{
     return(
         <>
-          <div className="grid-container3">
-             <div className="grid-item3">
+          <div className="grid-containera3">
+             <div className="grid-itemja3">
                  <p>Docs</p>
-                 <ul>
-                    <li><a href="#">Installation</a></li>
-                    <li><a href="#">Theme Setup</a></li>
-                    <li><a href="#">Grid</a></li>
-                    <li><a href="#">Atoms</a></li>
-                    <li><a href="#">Molecules</a></li>
-                    <li><a href="#">Functions</a></li>
+                 <ul className="unorder">
+                    <li className="listj1"><a href="#">Installation</a></li>
+                    <li className="listj1"><a href="#">Theme Setup</a></li>
+                    <li className="listj1"><a href="#">Grid</a></li>
+                    <li className="listj1"><a href="#">Atoms</a></li>
+                    <li className="listj1"><a href="#">Molecules</a></li>
+                    <li className="listj1"><a href="#">Functions</a></li>
                  </ul>
              </div>
-             <div className="grid-item3">
+             <div className="grid-itemja3">
                  <p>Atomize</p>
-                 <ul>
-                    <li><a href="">Features</a></li>
-                    <li><a href="">Design</a></li>
-                    <li><a href="">Development</a></li>
+                 <ul className="unorder">
+                    <li className="listj1"><a href="">Features</a></li>
+                    <li className="listj1"><a href="">Design</a></li>
+                    <li className="listj1"><a href="">Development</a></li>
                  </ul>
              </div>
-             <div className="grid-item3">
+             <div className="grid-itemja3">
                  <p>Resources</p>
-                 <ul>
-                    <li><a href="">Sketch File</a></li>
-                    <li><a href="">Github</a></li>
+                 <ul className="unorder">
+                    <li className="listj1"><a href="">Sketch File</a></li>
+                    <li className="listj1"><a href="">Github</a></li>
                  </ul>
              </div>
-             <div className="grid-item3">
+             <div className="grid-itemja3">
                  <p>About</p>
-                 <ul>
-                    <li><a href="">Showcase</a></li>
-                    <li><a href="">Contribute</a></li>
+                 <ul className="unorder">
+                    <li className="listj1"><a href="">Showcase</a></li>
+                    <li className="listj1"><a href="">Contribute</a></li>
                  </ul>
              </div>
-             <div className="grid-item3">
+             <div className="grid-itemja3">
                  <p>Extras</p>
-                 <ul>
-                    <li><a href="">Blog</a></li>
-                    <li><a href="">Need Help?</a></li>
-                    <li><a href="">Give Feedback</a></li>
+                 <ul className="unorder">
+                    <li className="listj1"><a href="">Blog</a></li>
+                    <li className="listj1"><a href="">Need Help?</a></li>
+                    <li className="listj1"><a href="">Give Feedback</a></li>
                  </ul>
              </div>
           </div>
@@ -63,7 +63,7 @@ const FooterComponent = () =>{
                     <img src="https://www.pxpng.com/public/uploads/preview/-11629550269wndgq9aqpr.png" className="twit"></img>
                 </a>
                 <a href="#">
-                    <img src="https://icon-library.com/images/linkedin-black-icon/linkedin-black-icon-5.jpg" className="link"></img>
+                    <img src="https://icon-library.com/images/linkedin-black-icon/linkedin-black-icon-5.jpg" className="linkj"></img>
                 </a>
               </div>
           </div>

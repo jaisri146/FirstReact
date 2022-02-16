@@ -21,6 +21,9 @@ const AppComponent = () =>{
 		   <CardComponent />
 		   <StructComponent />
 		   <BaseComponent />
+		   <NewComponent />
+		   <ParaComponent />
+		   <HeadComponent />
 		   <DetailComponent />
 		   <GridComponent />
 		   <NotificationComponent />

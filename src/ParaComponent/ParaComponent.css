@@ -1,9 +1,8 @@
-.grid-container {
+.grid-containerk {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto;
     grid-template:auto;
     column-gap:-11%;
-    margin: auto;
     padding:170%;
     padding-left:10%;
     padding-top:2%;
@@ -12,12 +11,11 @@
     left: 30px;
   margin: 10% 10% 10% 10%;
   column-gap:-8%;
-  margin-bottom: 100px;
+  margin-bottom: 27%;
   }
-  .grid-container1{
+  .grid-containerk1{
     display:grid;
     grid-template-columns: auto auto auto;
-    padding: -29%;
     margin-top: 20%;
     padding-bottom:10%;
     padding-left:10%;
@@ -29,7 +27,7 @@
     
 
 }
-.grid-item p{
+.grid-itemka p{
     margin-left: -20%;
     margin-top:-15%;
     padding:22%;
@@ -38,7 +36,7 @@
     text-align: left;
 
   }
-  .grid-item h6{
+  .grid-itemka h6{
     margin: -6px;
     padding: 10px;
     

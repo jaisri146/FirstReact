@@ -6,8 +6,7 @@ const NewComponent=()=>
 {
     return(
     <div className="new">
-        <h1 >Beautiful & consistant UI <br></br>powered with<span className="niv">React.</span> </h1>
-        
+        <h1 >Beautiful & consistant UI <br></br>powered with<span>React.</span> </h1>
     </div>
     )
 }
