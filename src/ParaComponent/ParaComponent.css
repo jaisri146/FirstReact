@@ -1,0 +1,45 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template:auto;
+    column-gap:-11%;
+    margin: auto;
+    padding:170%;
+    padding-left:10%;
+    padding-top:2%;
+    font-size: medium;
+    margin-top:-205%;
+    left: 30px;
+  margin: 10% 10% 10% 10%;
+  column-gap:-8%;
+  margin-bottom: 100px;
+  }
+  .grid-container1{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    padding: -29%;
+    margin-top: 20%;
+    padding-bottom:10%;
+    padding-left:10%;
+    padding-right:100%;
+    padding-top: 10%;
+    top: 20px;
+    left: 30px;
+    margin:9px;
+    
+
+}
+.grid-item p{
+    margin-left: -20%;
+    margin-top:-15%;
+    padding:22%;
+    padding-bottom:10%;
+    margin-right:20px;
+    text-align: left;
+
+  }
+  .grid-item h6{
+    margin: -6px;
+    padding: 10px;
+    
+   }
