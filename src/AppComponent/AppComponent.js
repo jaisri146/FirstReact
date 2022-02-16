@@ -1,4 +1,5 @@
 import React from 'react';
+import './AppComponent.css';
 import HeaderComponent from "../HeaderComponet/HeaderComponent";
 import CenterComponent from "../CenterComponent/CenterComponent";
 import CardComponent from "../CardComponent/CardComponent";
@@ -7,16 +8,24 @@ import BaseComponent from "../BaseComponent/BaseComponent";
 import NewComponent from '../NewComponent/NewComponent';
 import ParaComponent from '../ParaComponent/ParaComponent';
 import HeadComponent from '../HeadComponent/HeadComponent';
+import DetailComponent from "../DetailComponent/DetailComponent";
+import GridComponent from "../GridComponent/GridComponent";
+import NotificationComponent from "../NotificationComponent/NotificationComponent";
+import FooterComponent from "../FooterComponent/FooterComponent";
 
 const AppComponent = () =>{
     return(
-       <>
-       <HeaderComponent />
-       <CenterComponent />
-       <CardComponent />
-       <StructComponent />
-       <BaseComponent />
-       </>
+	   <div className="item">
+		   <HeaderComponent />
+		   <CenterComponent />
+		   <CardComponent />
+		   <StructComponent />
+		   <BaseComponent />
+		   <DetailComponent />
+		   <GridComponent />
+		   <NotificationComponent />
+		   <FooterComponent />
+		</div>
     )
 }
 export default AppComponent;

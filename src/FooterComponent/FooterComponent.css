@@ -1,0 +1,71 @@
+.grid-container3{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 5px;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding-bottom: 10px;
+}
+li a{
+    text-decoration: none;
+    color: #505256;
+    margin-left: -40px;
+    font-size: 13px;
+    
+}
+li a:hover{
+    color: #0284FE;
+    
+}
+.grid-item3 p{
+    font-size: 13px;
+    font-weight: 600;
+  
+}
+.foot{
+    margin-bottom: 40px;
+}
+.foot p{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 30px;
+    padding-bottom:10px;
+}
+.foot-img{
+   padding-left: 43%;
+    margin-bottom: 5%;
+   
+}
+.git{
+    width: 19px;
+    padding-left: 20px;
+    padding-bottom: 12px;
+}
+.beh{
+    width: 25px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.drib{
+    width: 25px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.twit{
+    width: 18px;
+    padding-left: 20px;
+    padding-bottom: 13px;
+}
+.link{
+    width: 30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
