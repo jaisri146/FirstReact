@@ -1,0 +1,71 @@
+.grid-containera3{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 5px;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.unorder{
+    list-style-type: none;
+}
+.listj1{
+    padding-bottom: 10px;
+}
+.listj1 a{
+    text-decoration: none;
+    color: #505256;
+    margin-left: -40px;
+    font-size: 13px;
+    
+}
+.listj1 a:hover{
+    color: #0284FE;
+    
+}
+.grid-itemj3 p{
+    font-size: 13px;
+    font-weight: 600;
+  
+}
+.foot{
+    margin-bottom: 40px;
+}
+.foot p{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 30px;
+    padding-bottom:10px;
+}
+.foot-img{
+   padding-left: 43%;
+    margin-bottom: 5%;
+   
+}
+.git{
+    width: 19px;
+    padding-left: 20px;
+    padding-bottom: 12px;
+}
+.beh{
+    width: 25px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.drib{
+    width: 25px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.twit{
+    width: 18px;
+    padding-left: 20px;
+    padding-bottom: 13px;
+}
+.linkj{
+    width: 30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
